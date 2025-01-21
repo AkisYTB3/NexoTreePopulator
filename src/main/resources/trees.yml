@@ -1,0 +1,11 @@
+custom_tree:
+  worlds: [ world_the_end ]
+  maxY: 70
+  minY: 55
+  biomes: [ ]
+  chance: 0.3
+  amount: 3
+  logs: custom_log
+  leaves: custom_leaves
+  place_on: [ END_STONE ]
+  type: generic
