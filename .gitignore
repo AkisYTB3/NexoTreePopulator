@@ -1,7 +1,10 @@
 .gradle
 **/build/
 !src/**/build/
+<<<<<<< HEAD
 build
+=======
+>>>>>>> origin/main
 
 # Ignore Gradle GUI config
 gradle-app.setting
@@ -18,5 +21,3 @@ gradle-app.setting
 # Eclipse Gradle plugin generated files
 # Eclipse Core
 .project
-# JDT-specific (Eclipse Java Development Tools)
-.classpath
